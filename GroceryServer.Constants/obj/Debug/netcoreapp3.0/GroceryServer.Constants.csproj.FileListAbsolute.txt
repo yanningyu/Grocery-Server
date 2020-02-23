@@ -1,0 +1,8 @@
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\bin\Debug\netcoreapp3.0\GroceryServer.Constants.deps.json
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\bin\Debug\netcoreapp3.0\GroceryServer.Constants.dll
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\bin\Debug\netcoreapp3.0\GroceryServer.Constants.pdb
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\obj\Debug\netcoreapp3.0\GroceryServer.Constants.csprojAssemblyReference.cache
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\obj\Debug\netcoreapp3.0\GroceryServer.Constants.AssemblyInfoInputs.cache
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\obj\Debug\netcoreapp3.0\GroceryServer.Constants.AssemblyInfo.cs
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\obj\Debug\netcoreapp3.0\GroceryServer.Constants.dll
+C:\Demo\Grocery\GroceryServer\GroceryServer.Constants\obj\Debug\netcoreapp3.0\GroceryServer.Constants.pdb

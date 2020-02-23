@@ -1,0 +1,13 @@
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Infrastructure.dll
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Services.dll
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Infrastructure.pdb
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\obj\Debug\netcoreapp3.0\GroceryServer.Admin.csprojAssemblyReference.cache
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\obj\Debug\netcoreapp3.0\GroceryServer.Admin.AssemblyInfoInputs.cache
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\obj\Debug\netcoreapp3.0\GroceryServer.Admin.AssemblyInfo.cs
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Admin.deps.json
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Admin.dll
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Admin.pdb
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\bin\Debug\netcoreapp3.0\GroceryServer.Services.pdb
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\obj\Debug\netcoreapp3.0\GroceryServer.Admin.csproj.CopyComplete
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\obj\Debug\netcoreapp3.0\GroceryServer.Admin.dll
+C:\Demo\Grocery\GroceryServer\GroceryServer.Admin\obj\Debug\netcoreapp3.0\GroceryServer.Admin.pdb

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GroceryServer.Admin\GroceryServer.Admin.csproj" />
+    <ProjectReference Include="..\GroceryServer.Constants\GroceryServer.Constants.csproj" />
+    <ProjectReference Include="..\GroceryServer.Infrastructure\GroceryServer.Infrastructure.csproj" />
+    <ProjectReference Include="..\GroceryServer.Services\GroceryServer.Services.csproj" />
+  </ItemGroup>
+
+</Project>
