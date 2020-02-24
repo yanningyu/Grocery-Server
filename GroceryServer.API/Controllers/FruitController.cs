@@ -36,5 +36,17 @@ namespace GroceryServer.API.Controllers
 
             return this.Ok(response.Entity);
         }
+
+        [HttpPut]
+        public async Task<IActionResult> PutAsync([FromBody] UpdatePriceRequest request)
+        {
+            var response =
+                await this.consumerFactory
+                    .CreateConsumer<UpdatePriceRequest, UpdatePriceResponse>()
+                    .ProcessAsync(request)
+                    .ConfigureAwait(false);
+
+            return this.Ok(response.Entity);
+        }
     }
 }
